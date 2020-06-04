@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+  
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    color: #222326;
+  }
+  .backimage{
+      background-image: url('/images/bg-albums.png');
+      width: 100%;
+      height: 100%;
+      background-position: center;
+  }
+  .backcolor{
+      margin:0px 0px 0px 0px;
+      overflow: hidden;
+      background-color: rgba(0,0,0,.6);
+      color: whitesmoke;
+  }
+/*body{
+    font-family: 'Nunito Sans',sans-serif;
+    font-size: 10px;
+}*/
+.reduce{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin:0px 0px 0px 100px;
+}
+.logo-text{
+    font-size: 2.0em;
+    font-weight: 200;
+    color:whitesmoke;
+    margin: 0px 300px 0px 100px;
+}
+.navlink{
+    font-size: 1.3em;
+    text-decoration: none;
+    color:white;
+    cursor: pointer;
+}
+.navlink:hover{
+    color: brown;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+}
+nav ul li {
+    margin: 0 20px;
+}
+header div img{
+    width: 17%;
+    height: 5%;
+}
+
+.text  h1{
+    font-size: 7em;
+    font-weight: 700;
+}
+.text h3{
+    font-size:  1.5em;
+    font-weight: 300;
+    padding:05px 5px 5px 15px;
+}
+.button1{
+    border-radius: 100px;
+    margin:15px 45px 20px 55px;
+    color: white;
+    background-color:  black;
+}
+#move{
+    font-size: 3.0em;
+    font-weight: 900;
+    text-align: center;
+    padding:20px 0px 0px 0px;
+}
+.set{
+    width:150px;
+    height: 100;
+}
+
+.section2{
+    margin:35px 0px 0px 95px;
+}
+
+* {
+    padding:0;
+    margin:0;
+}
+.iconDetails {
+    margin:0 2%;
+    float:left;
+    height:350px;
+    width:230px;
+}
+.container2 {
+    width:100%;
+    height:auto;
+    padding:50px 0px 400px 120px;
+}
+.text {
+    float:left;
+    padding:50px 0px 0px 100px;
+}
+.text h4, .text p {
+    width:100%;
+    float:left;
+    font-size:0.6em;
+}
+.section2{
+    display: flex;
+    margin:65px 15px 100px 0px;
+    padding:0px 0px 80px 0px;
+    justify-content: space-around;
+}
+.section2 h2{
+    font-size: 2.5em;
+    font-weight: 500;
+}
+.get{
+    background-color: white;
+}
+
+.section3{
+    padding:160px 0px 160px 70px;
+    text-align: center;
+    font-size: 2.3em;
+    color: white;
+    background-color: #6C0EE0;
+    background: linear-gradient(-155deg, #6C0EE0 05%, #F037A6 115%);
+}
+.last img{
+    width: 30px;
+    height:30px;
+}
+.last1 ul li{
+    list-style-type: none;
+}
+.last1{
+    background-color: black;
+    display: flex;
+    margin:0px 0px px 0px;
+    padding:50px;
+    font-size: 15px;
+}
+.third{
+    margin:0px 0px 0px 100px;
+    line-height: 45px;
+}
+.four{
+    margin:0px 0px 0px 100px;
+    line-height: 45px;
+}
+.five{
+    margin:0px 0px 0px 100px;
+    line-height: 45px;
+}
+.lin{
+    font-size: 1.0em;
+    text-decoration: none;
+    color:whitesmoke;
+    cursor: pointer;
+    padding:0px 0px 0px 0px;
+}
+.link{
+    font-size: 1.0em;
+    text-decoration: none;
+    color:whitesmoke;
+    cursor: pointer;
+}
+.linkk{
+    font-size: 1.0em;
+    text-decoration: none;
+    color:whitesmoke;
+    cursor: pointer;
+}
+.linkkk{
+    font-size: 1.0em;
+    text-decoration: none;
+    color:whitesmoke;
+    cursor: pointer;
+}
+.nav{
+    display: flex;
+    margin:150px 50px 50px 200px;
+}
+.diff{
+    margin: 0px 0px 0px 35px;
+}
+.diff2{
+    margin: 0px 0px 0px 35px;
+}
